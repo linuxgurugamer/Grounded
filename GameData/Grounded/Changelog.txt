@@ -1,0 +1,2 @@
+
+Added patch from @Angel-123 for KSP 1.12
